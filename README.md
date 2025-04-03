@@ -4,7 +4,7 @@ Bat-Tech Pytest Assignment
 (Tsakalos Geo)
 
 Features
-- Basic and parametrized tests
+- Basic & parametrized tests
 - Reusable fixtures
 - Mocking external dependencies
 - GitHub Actions CI
